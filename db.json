@@ -1,13 +1,50 @@
 {
-    "users": [
-        { "id": "12", "firstName": "dodo", "lastName": "OoOO", "email": "dodo@dodo.com", "age": 12, "companyId": "1"},
-        { "id": "13", "firstName": "john", "lastName": "doe", "email": "johndoe@dodo.com", "age": 18, "companyId": "2"},
-        { "id": "1", "firstName": "OoOO", "lastName": "dodo", "email": "oooo@dodo.com", "age": 21, "companyId": "1"}
-    ],
-    "companies": [
-        {"id": "1", "name": "dodo", "description": "dodo lives here"},
-        {"id": "2", "name": "apple", "description": "hackintosh"},
-        {"id": "3", "name": "facebook", "description": "react-native"},
-        {"id": "4", "name": "google", "description": "google pixel"}
-    ]
+  "users": [
+    {
+      "id": "12",
+      "firstName": "dodo",
+      "lastName": "OoOO",
+      "email": "dodo@dodo.com",
+      "age": 12,
+      "companyId": "1"
+    },
+    {
+      "id": "13",
+      "firstName": "john",
+      "lastName": "doe",
+      "email": "johndoe@dodo.com",
+      "age": 18,
+      "companyId": "2"
+    },
+    {
+      "id": "1",
+      "firstName": "OoOO",
+      "lastName": "dodo",
+      "email": "oooo@dodo.com",
+      "age": 21,
+      "companyId": "1"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "dodo",
+      "description": "dodo lives here"
+    },
+    {
+      "id": "2",
+      "name": "apple",
+      "description": "hackintosh"
+    },
+    {
+      "id": "3",
+      "name": "facebook",
+      "description": "react-native"
+    },
+    {
+      "id": "4",
+      "name": "google",
+      "description": "google pixel"
+    }
+  ]
 }
